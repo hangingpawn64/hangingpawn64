@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌱 I'm currently learning Web Development.
-- 👯 I’m interested in Robotics, ReactJS, MongoDB, NodeJS/ExpressJS, Flutter, Elixir, IOT.
+- 👯 I’m interested in Robotics, Full Stack WebD, ML, LLM's.
 - 🤝 I'm looking to collaborate on Full Stack Project.
 - 💬 Ask me about Full Stack Development, C++, { Chess & HipHop too;) }.
 - 📫 How to reach me: akshittupkar8@gmail.com
