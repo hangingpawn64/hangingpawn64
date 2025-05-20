@@ -11,7 +11,7 @@
 ## 🚀 Skills
 ### Programming Languages
 ```
-C ,C++ , JavaScript
+C, C++, JavaScript
 ```
 
 ### Frameworks & Libraries
