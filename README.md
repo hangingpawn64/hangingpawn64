@@ -21,7 +21,7 @@ React, Next.js, Tailwind, etc.
 
 ### Tools & Platforms
 ```
-Git, Github etc.
+Git, Github, Vite etc.
 ```
 
 ## 📊 GitHub Stats
