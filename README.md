@@ -6,7 +6,6 @@
 - 🤝 I'm looking to collaborate on Full Stack Web Projects.
 - 💬 Ask me about Full Stack Development, C++ {chess}.
 - 📫 How to reach me: akshittupkar8@gmail.com
-- ⚡ Fun fact: I know more no. of Chess Openings than I know Pokemons.
 
 ## 🚀 Skills
 ### Programming Languages
