@@ -15,7 +15,7 @@ C, C++, JavaScript
 
 ### Frameworks & Libraries
 ```
-React, Next.js, Tailwind, etc.
+React, Tailwind, etc.
 ```
 
 ### Tools & Platforms
