@@ -31,13 +31,13 @@ Git, Github, Vite etc.
       <img src="https://github-readme-stats.vercel.app/api?username=hangingpawn64&show_icons=true&theme=tokyonight" alt="GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hangingpawn64&layout=compact&theme=tokyonight" alt="Top Languages">
+      <img src="https://streak-stats.demolab.com?user=hangingpawn64&theme=tokyonight&border_radius=4.5" alt="GitHub Streak">
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hangingpawn64&theme=tokyonight&border_radius=4.5" alt="GitHub Streak">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hangingpawn64&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 
