@@ -23,12 +23,23 @@ React, Tailwind, etc.
 Git, Github, Vite etc.
 ```
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hangingpawn64&show_icons=true&theme=tokyonight)
+## 🚀 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hangingpawn64&layout=compact&theme=tokyonight)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=hangingpawn64&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hangingpawn64&layout=compact&theme=tokyonight" alt="Top Languages">
+    </td>
+  </tr>
+</table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hangingpawn64&theme=tokyonight&border_radius=4.5)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hangingpawn64&theme=tokyonight&border_radius=4.5" alt="GitHub Streak">
+</p>
+
 
 
 ## 🔗 Connect with me
