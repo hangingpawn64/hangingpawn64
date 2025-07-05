@@ -43,8 +43,10 @@ Git, Github, Vite etc.
 
 
 ## 🔗 Connect with me
+<a target="_blank">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Your-LinkedIn-URL](https://www.linkedin.com/in/akshittupkar64/))
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/AkshitTupkar/)
+</a>
 
 
 ⭐️ Arigato, [Akshit](https://github.com/hangingpawn64)
