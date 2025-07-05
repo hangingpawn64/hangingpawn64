@@ -24,11 +24,11 @@ Git, Github, Vite etc.
 ```
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hangingpawn64&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hangingpawn64&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hangingpawn64&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=tokyonight&border_radius=4.5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hangingpawn64&theme=tokyonight&border_radius=4.5)](https://git.io/streak-stats)
 
 
 ## 🔗 Connect with me
