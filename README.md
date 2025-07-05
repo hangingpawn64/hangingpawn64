@@ -7,7 +7,7 @@
 - 💬 Ask me about Full Stack Development, C++, (chess).
 - 📫 How to reach me: akshittupkar8@gmail.com
 
-## 🚀 Skills
+## Skills
 
 ### Programming Languages
 
@@ -27,7 +27,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 
-## 🚀 GitHub Stats
+##  GitHub Stats
 
 <table>
   <tr>
@@ -46,11 +46,11 @@
 
 
 
-## 🔗 Connect with me
+##  Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshittupkar64/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/AkshitTupkar/)
 
 
 
-⭐️ Arigato, [Akshit](https://github.com/hangingpawn64)
+✌🏻 Arigato, [Akshit](https://github.com/hangingpawn64)
