@@ -26,6 +26,9 @@ Git, Github, Vite etc.
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hangingpawn64&show_icons=true&theme=radical)
 
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hangingpawn64&layout=compact&theme=tokyonight)
+
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Your-LinkedIn-URL](https://www.linkedin.com/in/akshittupkar64/))
 
