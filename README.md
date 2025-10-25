@@ -1,7 +1,5 @@
 # Hi there, I'm AK$HIT. 👋
 
-## About Me
-
   <h3 align="left">About Me:</h3>
 
 - 🔭 I’m currently working on **Full Stack Web Projects**
