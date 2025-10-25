@@ -1,56 +1,60 @@
 # Hi there, I'm AK$HIT. 👋
 
 ## About Me
-- 🌱 I'm currently learning Web Development.
-- 👯 I’m interested in Robotics, Full Stack WebD, ML, and LLM's.
-- 🤝 I'm looking to collaborate on Full Stack Web Projects.
-- 💬 Ask me about Full Stack Development, C++, (chess).
-- 📫 How to reach me: akshittupkar8@gmail.com
 
-## Skills
+  <h3 align="left">About Me:</h3>
 
-### Programming Languages
+- 🔭 I’m currently working on **Full Stack Web Projects**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- 🌱 I’m currently learning **NodeJS && Machine Learning**
 
+- 👯 I’m looking to collaborate on **Full Stack Web Projects**
 
-### Frameworks & Libraries
+- 🤝 I’m looking for help with **Backend Development And AI**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- 💬 Ask me about **Full Stack Web Development, C++, Robotics**
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+- 📫 How to reach me **akshittupkar8@gmail.com**
+
+- ⚡ Fun fact **I never say no to a game of chess**
+
+  <h3 align="left">Connect with me:</h3>
+
+<p align="center">
+  <a href="https://github.com/hangingpawn64">
+    <img src="https://skillicons.dev/icons?i=github&perline=1" />
+  </a>
+  <a href="mailto:akshittupkar8@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&perline=1" />
+  </a>
+  <a href="https://x.com/akshiiiiit">
+    <img src="https://skillicons.dev/icons?i=twitter&perline=1" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,arduino,c,cpp,express,figma,firebase,mongodb,nodejs,py,react,tailwind,vercel&perline=8" />
+  </a>
+</p>
 
 
 ##  GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=hangingpawn64&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=hangingpawn64&theme=tokyonight&border_radius=4.5" alt="GitHub Streak">
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hangingpawn64&layout=compact&theme=tokyonight" alt="Top Languages">
+<hr/>
+<p align=center>
+    <div align="center">
+        <a>
+            <img width=396 src="https://github-readme-stats.vercel.app/api?username=hangingpawn64&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="hangingpawn64" /> 
+        </a>
+    &nbsp; &nbsp; &nbsp;
+        <a>
+            <img width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=hangingpawn64&theme=midnight-purple&hide_border=true" alt="hangingpawn64" />
+        </a>
+    </div> 
+    &nbsp; &nbsp;
 </p>
 
-
-
-##  Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshittupkar64/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/AkshitTupkar/)
-
-
-
 ✌🏻 Arigato, [Akshit](https://github.com/hangingpawn64)
+
